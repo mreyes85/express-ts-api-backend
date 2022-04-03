@@ -1,0 +1,8 @@
+# Ignore Environment Configurations
+.env
+
+# Ignore Dependancies
+node_modules
+
+# Ignore Built files
+dist
